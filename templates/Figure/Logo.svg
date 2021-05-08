@@ -1,0 +1,13 @@
+<svg width="450px" height="450px" xmlns="http://www.w3.org/2000/svg">>
+  <style>
+    .text {font: italic  67px Anton;}
+    .red_bject {fill: #E21C21;}
+  </style>
+  <circle cx="50%" cy="50%" r="225" fill="#232323" />
+  <text x="50%" y="200px" class = "text" fill="white" text-anchor="middle">
+  SASHA
+  </text>
+  <text x="50%" y="250px"  class = "text" fill="white" text-anchor="middle">
+  METALSMEET
+  </text>
+</svg>
