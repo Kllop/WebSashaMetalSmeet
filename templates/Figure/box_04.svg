@@ -1,0 +1,6 @@
+<svg width="700px" height="700px" xmlns="http://www.w3.org/2000/svg">
+    <style>
+    .red_bject {fill: #E21C21;}
+  </style>
+  <rect x="0" y="0" width="70" height="700" class="red_bject" transform = "rotate(320 75 0)"/>
+</svg>

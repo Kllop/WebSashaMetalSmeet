@@ -1,6 +1,6 @@
-<svg width="1200px" height="500px" xmlns="http://www.w3.org/2000/svg">
+<svg width="850px" height="850px" xmlns="http://www.w3.org/2000/svg">
     <style>
     .red_bject {fill: #E21C21;}
   </style>
-  <rect x="0" y="0" width="70" height="1000" class="red_bject" transform = "rotate(60 300 500)"/>
+  <rect x="0" y="0" width="70" height="900" class="red_bject" transform = "rotate(50 390 840)"/>
 </svg>
